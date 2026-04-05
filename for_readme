@@ -8,7 +8,7 @@ A modern, responsive single-page portfolio website built with **Next.js 16**, **
 
 ## ✨ Features
 
-- **Fixed Navigation** — Glassmorphism sticky navbar with active section highlighting and mobile hamburger menu
+- **Fixed Navigation** — Glassmorphism sticky navbar with active section highlighting and 
 - **Hero Section** — Full-viewport hero with typing animation for roles, gradient background, and CTA buttons
 - **About Section** — Professional bio, key stats (experience, projects, clients), and skill badges
 - **Skills Section** — 8 animated skill cards with proficiency bars (Python, ML, Deep Learning, NLP, etc.)
