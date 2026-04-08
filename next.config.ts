@@ -10,7 +10,7 @@
 // };
 
 // export default nextConfig;
-
+// what is next 
 
 import type { NextConfig } from "next";
 
